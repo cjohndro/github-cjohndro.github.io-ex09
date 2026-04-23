@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   usage relates to student understanding and perceived course difficulty. 
   It uses data analysis and visualization to identify patterns in student learning.
 baseurl: "ex09"
+remote_theme: "jekyll/minima@1e8a445"
 url: "github-cjohndro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  cjohndro

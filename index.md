@@ -2,7 +2,6 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-
 # Office Hours and Student Learning Outcomes
 
 ## Project Summary

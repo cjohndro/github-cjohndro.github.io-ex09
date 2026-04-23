@@ -28,6 +28,8 @@ baseurl: "ex09"
 url: "github-cjohndro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  cjohndro
+theme: jekyll-theme-cayman
+
 
 
 # Build settings

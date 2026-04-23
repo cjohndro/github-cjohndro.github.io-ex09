@@ -29,16 +29,13 @@ url: "github-cjohndro.github.io" # the base hostname & protocol for your site, e
 twitter_username: N/A
 github_username:  cjohndro
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 
 # Build settings
 # Build settings
 remote_theme: "jekyll/minima@1e8a445"
 
 plugins:
+remote_theme: pages-themes/cayman@v0.2.0
   - jekyll-remote-theme
 #- jekyll-feed
 # Exclude from processing.

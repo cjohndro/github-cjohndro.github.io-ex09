@@ -15,9 +15,7 @@ Students were grouped into low (0–2 visits) and high (3–5 visits) office hou
 
 ## Visualizations
 
-fhfhgg..
+fhfhgg.. fjfjjdjds
 
 ### Understanding by Office Hours Usage
-![Understanding](understanding.png)
-![Difficulty](difficulty.png)
-![Office Hours](oh_usage.png)
+

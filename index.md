@@ -22,3 +22,11 @@ Students were grouped into low (0–2 visits) and high (3–5 visits) office hou
 
 ### Difficulty By Office Hours 
 <img src="/github-cjohndro.github.io-ex09/oh_usage.png" width="600"/> 
+
+## Conclusion
+
+The analysis examined the relationship between office hour usage and student learning outcomes. The results show that students who attend office hours more frequently (3-5+ visits) report lower average understanding and also a higher perceived difficulty compared to students who attend less frequently (0-2 visits). This suggests that high office hours usage is not directly associated with improved understanding. 
+
+This does not mean office hours are ineffective. A likely explanation is reverse causation. Students who are struggling more or finding the course higher in difficulty may be more likely to attend office hours. Because of this, the data does not clearly support the idea that office hours improve understanding. 
+
+On trade-off could be increasing emphasis on office hours may disproportionately benefit students who already feel behind while not affecting those who are doing well. Increasing reliance on office hours could also reduce independent problem-solving if students depend on them too heavily. Future improvements to this idea could involve collecting more detailed data, for example why students attend office hours, or tracking performance changes before and after attending office hours. 

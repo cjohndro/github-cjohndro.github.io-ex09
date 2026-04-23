@@ -27,7 +27,8 @@ description: >-
 baseurl: "/github-cjohndro.github.io-ex09"
 url: "https://cjohndro.github.io"
 
-theme: jekyll-theme-caymen
+theme: jekyll-theme-cayman
+
   
 
 

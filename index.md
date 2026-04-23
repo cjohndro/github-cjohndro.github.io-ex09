@@ -3,11 +3,23 @@
 layout: default
 ---
 
-# This is a big header
-
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-## This is a small header
+# Office Hours and Student Learning Outcomes
 
-This is basic paragraph text.
+## Project Summary
+
+This project analyzes survey data to explore the relationship between office hours usage and student learning outcomes, including understanding and perceived difficulty.
+Students were grouped into low (0–2 visits) and high (3–5 visits) office hours usage categories to compare differences in learning experiences.
+
+## Visualizations
+
+### Understanding by Office Hours Usage
+![Understanding](images/understanding.png)
+
+### Difficulty by Office Hours Usage
+![Difficulty](images/difficulty.png)
+
+### Office Hours Usage Distribution
+![Office Hours](images/oh_usage.png)

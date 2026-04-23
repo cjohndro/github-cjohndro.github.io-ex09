@@ -15,9 +15,14 @@ Students were grouped into low (0–2 visits) and high (3–5 visits) office hou
 
 ## Visualizations
 
+<img src="ex09/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+
+
+
 fhfhgg.. show up nowjfjfjfdn
 fsjaka
 sow u
+
 
 
 ### Understanding by Office Hours Usage
@@ -32,3 +37,11 @@ sow u
 ### Office Hours Usage
 ![Office Hours](oh_usage.png)
 
+
+<img src="/github-cjohndro.github.io-ex09/understanding.png" width="600"/>
+<br><br>
+
+<img src="/github-cjohndro.github.io-ex09/difficulty.png" width="600"/>
+<br><br>
+
+<img src="/github-cjohndro.github.io-ex09/oh_usage.png" width="600"/> 

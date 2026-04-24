@@ -10,7 +10,7 @@ This project analyzes survey data to explore the relationship between office hou
 
 ## Visualization 
 
-### Understanding by Office Hours Usage
+### Understanding by Office Hours Usage!
 <img src="/github-cjohndro.github.io-ex09/understanding.png" width="600"/>
 <br><br>
 

@@ -20,7 +20,7 @@ Average student understanding rating compared between low (0–2 visits) and hig
 ### Description 
 This bar chart compares self-reported understanding across students with different levels of office hours attendance. Students in the high usage group report slightly lower average understanding than those in the low usage group. This suggests that students who attend office hours more frequently may be doing so because they already feel less confident in their understanding of the material.
 
-### Understanding by Office Hours
+### Difficulty by Office Hours Usage
 <img src="/github-cjohndro.github.io-ex09/difficulty.png" width="600"/>
 <br><br>
 
@@ -29,7 +29,7 @@ Comparison of perceived course difficulty between low and high office hours usag
 ### Description
 This box plot shows that students who attend office hours more frequently tend to report higher perceived difficulty in the course. The distribution for the high usage group is shifted upward compared to the low usage group. This supports the idea that office hours are more commonly used by students who are struggling rather than by students who already understand the material well.
 
-### Difficulty By Office Hours 
+### Office Hours Usage Distribution
 <img src="/github-cjohndro.github.io-ex09/oh_usage.png" width="600"/> 
 
 ### Figure Caption
@@ -43,4 +43,4 @@ The analysis examined the relationship between office hour usage and student lea
 
 This does not mean office hours are ineffective. A likely explanation is reverse causation. Students who are struggling more or finding the course higher in difficulty may be more likely to attend office hours. Because of this, the data does not clearly support the idea that office hours improve understanding. 
 
-One trade-off could be increasing emphasis on office hours may disproportionately benefit students who already feel behind while not affecting those who are doing well. Increasing reliance on office hours could also reduce independent problem-solving if students depend on them too heavily. Future improvements to this idea could involve collecting more detailed data, for example why students attend office hours, or tracking performance changes before and after attending office hours. 
+One trade-off could be that increasing emphasis on office hours may disproportionately benefit students who already feel behind while not affecting those who are doing well. Increasing reliance on office hours could also reduce independent problem-solving if students depend on them too heavily. Future improvements to this idea could involve collecting more detailed data, for example why students attend office hours, or tracking performance changes before and after attending office hours. 

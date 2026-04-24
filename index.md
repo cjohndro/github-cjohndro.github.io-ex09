@@ -17,7 +17,7 @@ This project analyzes survey data to explore the relationship between office hou
 ### Figure Caption
 Average student understanding rating compared between low (0–2 visits) and high (3–5 visits) office hours usage groups.
 ### Description 
-This bar chart compares self-reported understanding averages across students with different levels of office hours attendance. Students in the high usage group report slightly lower average understanding than those in the low usage group. The scale on the y-axis is the understanding from 1-7 (1 being Are Lost and 7 being Understanding Everything.) This suggests that students who attend office hours more frequently may be doing so because they already feel less confident in their understanding of the material.
+This bar chart compares self-reported understanding averages across students with different levels of office hours attendance. Students in the high usage group report slightly lower average understanding than those in the low usage group. The scale on the y-axis is the understanding from 1-7 (1 being "Are Lost" and 7 being "Understanding Everything.") This suggests that students who attend office hours more frequently may be doing so because they already feel less confident in their understanding of the material.
 
 ### Difficulty by Office Hours Usage
 <img src="/github-cjohndro.github.io-ex09/difficulty.png" width="600"/>
@@ -26,7 +26,7 @@ This bar chart compares self-reported understanding averages across students wit
 ### Figure Caption 
 Comparison of perceived course difficulty between low and high office hours usage groups.
 ### Description
-This box plot shows that students who attend office hours more frequently tend to report higher perceived difficulty in the course. The distribution for the high usage group is shifted upward compared to the low usage group. The scale on the y-axis is the difficulty from 1-7 (1 being Very Easy and 7 being Very Difficult). This supports the idea that office hours are more commonly used by students who are struggling rather than by students who already understand the material well.
+This box plot shows that students who attend office hours more frequently tend to report higher perceived difficulty in the course. The distribution for the high usage group is shifted upward compared to the low usage group. The scale on the y-axis is the difficulty from 1-7 (1 being "Very Easy" and 7 being "Very Difficult"). This supports the idea that office hours are more commonly used by students who are struggling rather than by students who already understand the material well.
 
 ### Office Hours Usage Distribution
 <img src="/github-cjohndro.github.io-ex09/oh_usage.png" width="600"/> 
